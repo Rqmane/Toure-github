@@ -1,0 +1,22 @@
+.parent {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    margin: 10px;
+}
+
+.enfant1 {
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.enfant2 {
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.enfant3 {
+    border: 2px solid black;
+    margin: 11px;
+}
